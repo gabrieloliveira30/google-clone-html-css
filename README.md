@@ -1,2 +1,2 @@
 # google-clone-html-css
-Replicação da página de pesquisa do Google usando HTML e CSS e Futuramente aplicando JS
+Clonagem da página inicial do Google usando apenas HTML e CSS, Futuramente aplicando interatividade e afins com JavaScript. Projeto criado para praticar conceitos de layout, responsividade e estilização.
