@@ -6,7 +6,7 @@ Clonagem da página inicial do Google usando HTML e CSS.
 
 ## Preview
 
-<img width="1919" height="996" alt="Image" src="https://github.com/user-attachments/assets/90b73621-32b0-4071-aaa6-eb1cac3614e4" />
+<img width="1920" height="920" alt="Image" src="https://github.com/user-attachments/assets/abc48d61-b1b7-4334-b384-467e88ab848e" />
 
 ## Tecnologias usadas
 - HTML5
